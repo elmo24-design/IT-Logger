@@ -1,0 +1,45 @@
+{
+  "logs": [
+    {
+      "message": "test123 Updated",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2022-01-27T08:00:32.695Z",
+      "id": 3
+    },
+    {
+      "message": "test",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2022-01-27T07:35:53.468Z",
+      "id": 4
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "Roronoa",
+      "lastName": "Zoro",
+      "id": 5
+    },
+    {
+      "firstName": "Elmo",
+      "lastName": "Mahupil",
+      "id": 6
+    }
+  ]
+}
